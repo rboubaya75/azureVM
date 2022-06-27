@@ -2,10 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <ApplicationInsightsResourceId>/resourcegroups/vmSize/providers/microsoft.insights/components/vmsize</ApplicationInsightsResourceId>
-    <ApplicationInsightsAnnotationResourceId>/resourcegroups/vmSize/providers/microsoft.insights/components/vmsize</ApplicationInsightsAnnotationResourceId>
-    <UserSecretsId>834abe5a-55ab-4a8d-b04c-f6d66e8ae768</UserSecretsId>
-    <ApplicationIcon />
     <OutputType>Exe</OutputType>
     <StartupObject />
   </PropertyGroup>
